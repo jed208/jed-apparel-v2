@@ -1,6 +1,6 @@
-# Version 1
+# Version 2
 
-This project focuses on building an e-commerce store with React. This repo is kept so that old code can be viewed prior to switching to Redux.
+This project continues on building an e-commerce store with React. Version 2 will be converting our code to utilize Redux.
 
 # Getting Started with Create React App
 
