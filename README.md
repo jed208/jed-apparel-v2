@@ -1,3 +1,7 @@
+# Version 1
+
+This project focuses on building an e-commerce store with React. This repo is kept so that old code can be viewed prior to switching to Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
